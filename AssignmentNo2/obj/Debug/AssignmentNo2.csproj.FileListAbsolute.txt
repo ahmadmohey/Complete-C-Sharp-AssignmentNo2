@@ -1,0 +1,7 @@
+G:\My Courses\C#\C# Projects\Missing Assignments\AssignmentNo2\AssignmentNo2\bin\Debug\AssignmentNo2.exe.config
+G:\My Courses\C#\C# Projects\Missing Assignments\AssignmentNo2\AssignmentNo2\bin\Debug\AssignmentNo2.exe
+G:\My Courses\C#\C# Projects\Missing Assignments\AssignmentNo2\AssignmentNo2\bin\Debug\AssignmentNo2.pdb
+G:\My Courses\C#\C# Projects\Missing Assignments\AssignmentNo2\AssignmentNo2\obj\Debug\AssignmentNo2.csprojResolveAssemblyReference.cache
+G:\My Courses\C#\C# Projects\Missing Assignments\AssignmentNo2\AssignmentNo2\obj\Debug\AssignmentNo2.csproj.CoreCompileInputs.cache
+G:\My Courses\C#\C# Projects\Missing Assignments\AssignmentNo2\AssignmentNo2\obj\Debug\AssignmentNo2.exe
+G:\My Courses\C#\C# Projects\Missing Assignments\AssignmentNo2\AssignmentNo2\obj\Debug\AssignmentNo2.pdb
